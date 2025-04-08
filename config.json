@@ -28,7 +28,7 @@
     "ss06": "disable",
     "ss07": "enable",
     "ss08": "enable",
-    "zero": "enable"
+    "zero": "disable"
   },
   "nerd_font": {
     "enable": true,
@@ -41,7 +41,7 @@
     "extra_args": []
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
